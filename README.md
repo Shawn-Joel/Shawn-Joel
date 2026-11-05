@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello, I'm Shawn
+
+I'm a Computer Science student focused on building reliable, well-structured software.
+
+I work across backend logic, data handling, and applied machine learning, with an emphasis on clean code and clear documentation.
+
+**Core stack:** Python, SQL, Java, Git
+
+I'm currently seeking developer opportunities where I can contribute to production systems and keep growing as an engineer.
 
 <!--
 **Shawn-Joel/Shawn-Joel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
